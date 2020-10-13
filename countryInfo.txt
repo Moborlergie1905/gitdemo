@@ -1,0 +1,7 @@
+Germany					 Country Name 					 Nigeria 
+ DEU						 Alpha Code 					 NGA 
+ Berlin					 Capital 					 Abuja 
+ Europe						 Continent 						 Africa 
+ 81083600						 Population 						 182202000 
+ EUR						 Currency 						 NGN 
+ 1						 Currency Rate 						 447.632559
